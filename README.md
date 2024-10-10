@@ -21,5 +21,5 @@ O projeto faz parte de uma atividade entre matemática e desenvolvimento de sist
 
 ## Exemplo de Uso
 Após executar o script, o programa solicitará o tipo de cálculo que você deseja realizar:
-* Funções trigonométricas: Informe o valor do ângulo para calcular seno, cosseno ou tangente.
 * Teorema de Pitágoras: Forneça os valores de dois lados de um triângulo retângulo para calcular o terceiro lado.
+* Funções trigonométricas: Informe o valor do ângulo para calcular seno, cosseno ou tangente.
